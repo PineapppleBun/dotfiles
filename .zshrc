@@ -21,7 +21,7 @@ alias vim='nvim'
 ## PYTHON ##
  ## 3.9 ##
 
-PATH=/Users/bytedance/Library/Python/3.9/bin:$PATH
+ PATH=/Users/$(whoami)/Library/Python/3.9/bin:$PATH
 
 # Find and set branch name var if in git repository.
 # Enabling and setting git info var to be used in prompt config.
